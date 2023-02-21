@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    backendURL: 'http://127.0.0.1:4001',
-    frontendURL: 'http://localhost:3000'
+    backendURL: 'https://nodesendbackend-production-7232.up.railway.app',
+    frontendURL: 'https://node-send-lilac.vercel.app'
   }
 }
 
